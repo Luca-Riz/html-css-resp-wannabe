@@ -73,6 +73,8 @@ img {
 }
 
 
+
+
 @media screen and (max-width:420px) {
 
   * {
@@ -110,6 +112,10 @@ img {
 
   h1 {
     padding: 10px 0 15px 0;
+  }
+
+  img { 
+    height: 100px;
   }
 
 }
