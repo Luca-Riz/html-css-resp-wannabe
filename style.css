@@ -95,7 +95,7 @@ img {
     padding-bottom: 15px;
   }
 
-  #steps .row > .left, #steps .row > .central, #steps .row > .right {
+  #steps .row > .left, #steps .row > .central, #steps .row > .right, .third {
   padding-bottom: 15px;
   }
 
