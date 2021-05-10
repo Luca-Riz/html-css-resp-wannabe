@@ -89,10 +89,27 @@ img {
     width: 100%;
   }
 
-  .row {
-  margin-top: 10px;
+  #lezioni .row > .left, #lezioni .row > .right {
+    padding-bottom: 15px;
   }
 
+  #steps .row > .left, #steps .row > .central, #steps .row > .right {
+  padding-bottom: 15px;
+  }
 
+  .row, 
+  #why .row>.first
+  {
+  margin-top: 0px;
+  }
+
+  #why .row>.second,
+  #why .row>.third {
+    margin-top: 20px;
+  }
+
+  h1 {
+    padding: 10px 0 15px 0;
+  }
 
 }
